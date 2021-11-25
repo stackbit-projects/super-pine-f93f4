@@ -329,6 +329,11 @@ sections:
     title: Latest news
     subtitle: Latest blog posts section example
     actions:
+      - type: Button
+        label: View All
+        altText: View All Posts
+        url: /blog
+        style: primary
       - label: Learn more
         altText: Learn more
         url: /
@@ -338,11 +343,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - type: Button
-        label: View All
-        altText: View All Posts
-        url: /blog
-        style: primary
     showRecent: true
     recentCount: 3
     styles:
