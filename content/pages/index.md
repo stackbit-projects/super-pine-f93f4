@@ -122,10 +122,6 @@ sections:
         url: /images/google-play.svg
         altText: Google Play
         caption: Google Play
-      - type: ImageBlock
-        url: /images/playstation.svg
-        altText: PlayStation
-        caption: PlayStation
       - url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: altText of the image
@@ -135,6 +131,10 @@ sections:
           self:
             opacity: 100
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/playstation.svg
+        altText: PlayStation
+        caption: PlayStation
       - type: ImageBlock
         url: /images/gatsby.svg
         altText: Gatsby
