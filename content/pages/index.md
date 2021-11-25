@@ -126,6 +126,15 @@ sections:
         url: /images/playstation.svg
         altText: PlayStation
         caption: PlayStation
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        styles:
+          self:
+            opacity: 100
+        type: ImageBlock
       - type: ImageBlock
         url: /images/gatsby.svg
         altText: Gatsby
