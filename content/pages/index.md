@@ -329,6 +329,15 @@ sections:
     title: Latest news
     subtitle: Latest blog posts section example
     actions:
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
       - type: Button
         label: View All
         altText: View All Posts
