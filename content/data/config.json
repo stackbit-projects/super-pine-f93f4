@@ -50,7 +50,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "url": "/",
+                "url": "/test",
                 "altText": "Sign up",
                 "style": "primary",
                 "label": "test"
