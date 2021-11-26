@@ -49,13 +49,6 @@
         ],
         "secondaryLinks": [
             {
-                "type": "Button",
-                "label": "Sign up",
-                "url": "/",
-                "altText": "Sign up",
-                "style": "primary"
-            },
-            {
                 "label": "Learn more",
                 "altText": "Learn more",
                 "url": "/",
@@ -65,6 +58,13 @@
                 "style": "secondary",
                 "elementId": "",
                 "type": "Button"
+            },
+            {
+                "type": "Button",
+                "label": "Sign up",
+                "url": "/",
+                "altText": "Sign up",
+                "style": "primary"
             }
         ],
         "styles": {
